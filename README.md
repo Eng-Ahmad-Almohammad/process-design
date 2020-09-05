@@ -6,6 +6,7 @@
 * Will your site appeal to more women or men? What is the mix?
 * Which country do your visitors live in?
 ### and many others points
+
 ## Target Audience: Companies
 * What is the size of the company or relevant department?
 * What is the position of people in the company who visit your site?
